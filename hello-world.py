@@ -1,4 +1,4 @@
-#Gian Cyrus F. Salvador
+#Gian Sal
 #dunno if it's correct lol
 
 print("Random one on one thing")
